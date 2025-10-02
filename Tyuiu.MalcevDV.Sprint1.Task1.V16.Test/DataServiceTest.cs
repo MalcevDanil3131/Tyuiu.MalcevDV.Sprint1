@@ -1,5 +1,5 @@
-﻿using Tyuiu.MalcevDV.Sprint1.Task1.V16.Lib;
-namespace Tyuiu.MalcevDV.Sprint1.Task1.V16.Test
+﻿using Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib;
+namespace Tyuiu.MalcevDV.Sprint1.Task2.V16.Test
 {
     [TestClass]
     public sealed class DataServiceTest
