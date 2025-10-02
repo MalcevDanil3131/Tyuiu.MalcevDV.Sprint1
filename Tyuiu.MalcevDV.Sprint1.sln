@@ -21,11 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{516B1918-8617-44EB-8ABD-9ABFBE4E1689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16", "Tyuiu.MalcevDV.Sprint1.Task1.V16\Tyuiu.MalcevDV.Sprint1.Task2.V16.csproj", "{5B1FAF24-CC90-4516-8434-A253791EEB50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16", "Tyuiu.MalcevDV.Sprint1.Task2.V16\Tyuiu.MalcevDV.Sprint1.Task2.V16.csproj", "{5B1FAF24-CC90-4516-8434-A253791EEB50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib", "Tyuiu.MalcevDV.Sprint1.Task1.V16.Lib\Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib.csproj", "{1CA4B7E1-4A01-4EC2-ADA5-08BCFDC2443C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib", "Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib\Tyuiu.MalcevDV.Sprint1.Task2.V16.Lib.csproj", "{1CA4B7E1-4A01-4EC2-ADA5-08BCFDC2443C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16.Test", "Tyuiu.MalcevDV.Sprint1.Task1.V16.Test\Tyuiu.MalcevDV.Sprint1.Task2.V16.Test.csproj", "{A3EF347C-8837-4B38-A4B0-CB5CD9F0B56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MalcevDV.Sprint1.Task2.V16.Test", "Tyuiu.MalcevDV.Sprint1.Task2.V16.Test\Tyuiu.MalcevDV.Sprint1.Task2.V16.Test.csproj", "{A3EF347C-8837-4B38-A4B0-CB5CD9F0B56C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
